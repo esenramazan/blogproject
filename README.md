@@ -1,4 +1,4 @@
-# Becend Blog Project
+# Backend Blog Project
 This is a Spring Boot Service Project, serving as an example of how to create a clean and organized project.
 
 ## Database
